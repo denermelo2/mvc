@@ -1,8 +1,15 @@
 ## Instalação
 Você pode clonar este repositório OU baixar o .zip
 
+
 Ao descompactar, é necessário rodar o **composer** pra instalar as dependências e gerar o *autoload*.
 
+## Instalação do Composer
+Entre na pasta __Util dentro do projeto e instale o Composer-Setup.exe, identifique o diretorio do seu php, basicamente basta dar um avançar, não precisa marcar a caixa de Developer. Confirme o PATH de arquivos.
+para saber se deu certo a instlação abra o prompt pelo terminal e digite composer
+se abrir varias informações é pq instalou normalmente.
+
+## Instalando o composer dentro do projeto
 Vá até a pasta do projeto, pelo *prompt/terminal* e execute:
 > composer install
 
